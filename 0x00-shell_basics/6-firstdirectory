@@ -1,2 +1,2 @@
 #!/bin/bash
-mkrdir /tmp/my_first_directory
+mkrdir /tmp/my_first_directory/
