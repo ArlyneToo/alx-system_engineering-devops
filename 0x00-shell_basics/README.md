@@ -1,5 +1,1 @@
-## shell basics
-
-#### tasks
-- 0. Where am I? 
-- [0-current_working_directory](0-current_working_directory)
+ symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory. 
